@@ -1,0 +1,4 @@
+Observations from Visualizations:
+Higher alcohol content correlates with better wine quality.
+Wines with higher quality have a more balanced level of sulphates.
+Residual sugar and density are positively correlated
